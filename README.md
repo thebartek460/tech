@@ -1,2 +1,9 @@
 # tech
-super 
+Środkowy Pomocnik:
+Środkowy pomocnik pełni kluczową rolę w strukturze drużyny, łącząc elementy ofensywne i defensywne. Jego zadaniem jest kontrolowanie środka boiska, zarówno przy posiadaniu piłki, jak i w fazie obronnej. Środkowy pomocnik powinien być dynamicznym zawodnikiem, posiadającym doskonałą kondycję fizyczną i umiejętność poruszania się zarówno w ataku, jak i w obronie. Jego rola obejmuje dystrybucję piłki, kreatywne podejścia do gry, a także zdolność do przechwytywania piłki od przeciwników. To właśnie środkowy pomocnik stanowi kluczowy element w budowaniu akcji ofensywnych i jednocześnie pełni rolę zabezpieczającą linię defensywną.
+
+Środkowy Pomocnik Ofensywny:
+Środkowy pomocnik ofensywny to kreator gry, który skupia się głównie na wspieraniu ataku drużyny. Jego umiejętności kreatywne i wizja pola gry są kluczowe dla skutecznego przeprowadzania akcji ofensywnych. Ten zawodnik posiada zdolność do tworzenia sytuacji bramkowych, dostarczania kluczowych podań i znajdowania się w odpowiednich miejscach w polu karnym przeciwnika. Jednak równocześnie musi być świadomy defensywnych obowiązków, szczególnie w przypadku utraty piłki przez drużynę. Jego zadaniem jest również wspieranie środkowego pomocnika defensywnego w odbieraniu piłki od przeciwników.
+
+Środkowy Pomocnik Defensywny:
+Środkowy pomocnik defensywny to kluczowy element w utrzymaniu równowagi pomiędzy linią obrony a ofensywą. Jego głównym zadaniem jest zapewnienie stabilności w środku pola, chroniąc linię defensywną przed atakami przeciwnika. Ten zawodnik powinien być wyposażony w doskonałe umiejętności obronne, w tym w przechwytywanie piłki, blokowanie strzałów i agresywne naciskanie na przeciwników. Ponadto, środkowy pomocnik defensywny pełni rolę w rozprowadzaniu piłki do bardziej zaawansowanych zawodników i pomaga w budowaniu akcji ofensywnych. Jego inteligencja taktyczna i umiejętność czytania gry są kluczowe dla sukcesu drużyny zarówno w obronie, jak i ataku.
